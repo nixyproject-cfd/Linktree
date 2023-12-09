@@ -1,4 +1,5 @@
 ### COPY - PASTE
+```html
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
 <html b:css='false' b:defaultwidgetversion='2' b:js='true' b:layoutsVersion='3' expr:dir='data:blog.languageDirection' expr:lang='data:blog.locale' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
@@ -810,3 +811,4 @@ $((function(){var a=$("#main-linktree"),t="parent",s="child-item",l="grandchild-
   &lt;textarea id=&quot;bjs&quot; readonly hidden&gt;</body>&lt;/textarea&gt;
   <script>document.getElementById(&#39;bjs&#39;).remove(), document.body.lastElementChild.remove()</script>&lt;/body&gt;
 </html>
+```
