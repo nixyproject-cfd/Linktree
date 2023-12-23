@@ -9,7 +9,7 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 ## COMMAND
 
 
-<img src="https://img.shields.io/badge/Service-Update%20First-green"></img>
+<img src="https://img.shields.io/badge/Service-Update%20Script-green"></img>
  ```html
  apt-get update && apt-get upgrade -y && update-grub && reboot
   ```
