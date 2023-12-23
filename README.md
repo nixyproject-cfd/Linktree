@@ -24,9 +24,6 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 
 
 ## Credit :
-  
--   Original Script by  Horas , SL
--   Modded and update Script by t.me/PrinceNewbie
 	
 	
 	            
