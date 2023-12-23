@@ -17,34 +17,6 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
  ```html
  wget https://raw.githubusercontent.com/nixyproject-cfd/vip/main/nixy.sh && chmod +x nixy.sh && ./nixy.sh
  ```
- <img src="https://img.shields.io/badge/Install%20Only-SSH%2FSSH%20SSL(Stunnel)%20SSH--WS%20Python%20BadVPN--UDPGW-green"></img>
- ```html
- wget https://raw.githubusercontent.com/syapik96/aws/main/install/sshonly.sh
- chmod +x sshonly.sh  
- ./sshonly.sh
- ```
-	
-	
-## Info 
-```diff
-- PLEASE READ THE SYMBOLIC TEXT ( # )
-(to find out what script to install)
-```
-- Intention guys Important . After Fork , Change this .
-- Attention everyone . There has been a change in the main script recently,
-- the change was not made by the owner (Prince), 
-- it was made by mybro, I'm sorry if there is a failure in the script, 
-- Replace all this with your own acc name :
-
-```diff
-- GitUser="syapik96"
-```
-	    
-- if there is an error not skilled to fix.(hope pull issue).
-- if anyone is proficient in scripting.(hope can spend your time for fixing error)
-- And so For All those used myrepo, if there are any errors in the script, welcome to correct n merge to main-branch
-- i really appreciate, i getting busy this year .	
-- thanks for those fork 
 	 
 
 ## Description
