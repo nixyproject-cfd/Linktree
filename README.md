@@ -16,7 +16,6 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
  <img src="https://img.shields.io/badge/UPDATE-SCRIPT-green"></img>
  ```html
  wget https://raw.githubusercontent.com/nixyproject-cfd/vip/main/nixy.sh && chmod +x nixy.sh && ./nixy.sh
- ./setup.sh
  ```
  <img src="https://img.shields.io/badge/Install%20Only-SSH%2FSSH%20SSL(Stunnel)%20SSH--WS%20Python%20BadVPN--UDPGW-green"></img>
  ```html
