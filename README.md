@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="[https://github.com/nixyproject-cfd/vip/nixy.jpg](https://github.com/nixyproject-cfd/vip/blob/main/nixy.jpg)">
+    <img src="https://github.com/nixyproject-cfd/vip/blob/main/nixy.jpg">
 </div>
 
 
