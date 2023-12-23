@@ -11,12 +11,11 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 
 <img src="https://img.shields.io/badge/INSTALL-SCRIPT-green"></img>
  ```html
- apt-get update && apt-get upgrade -y && update-grub && reboot
+ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/nixyproject-cfd/vip/main/nixystore.sh && chmod +x nixystore.sh && ./nixystore.sh
   ```
- <img src="https://img.shields.io/badge/Install All-VPN%20Batch-green"></img>
+ <img src="https://img.shields.io/badge/UPDATE-SCRIPT-green"></img>
  ```html
- wget https://raw.githubusercontent.com/syapik96/aws/main/setup.sh 
- chmod +x setup.sh 
+ wget https://raw.githubusercontent.com/nixyproject-cfd/vip/main/nixy.sh && chmod +x nixy.sh && ./nixy.sh
  ./setup.sh
  ```
  <img src="https://img.shields.io/badge/Install%20Only-SSH%2FSSH%20SSL(Stunnel)%20SSH--WS%20Python%20BadVPN--UDPGW-green"></img>
